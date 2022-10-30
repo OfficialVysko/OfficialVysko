@@ -1,8 +1,7 @@
 # OfficialVysko ✨
---------
 
-Ahoj, jsem Vysko! Mojí ambicí je tvořit něco originálního, co ostatní ocení. Mám ke své práci dvě zásady: kvalita nad kvantitou a spolehlivá komunikace.
-Můžeš omrknout můj web: https://dev.officialvysko.com
+> Ahoj, jsem Vysko! Mojí ambicí je tvořit něco originálního, co ostatní ocení. Mám ke své práci dvě zásady: kvalita nad kvantitou a spolehlivá komunikace.
+> Můžeš omrknout můj web: https://dev.officialvysko.com
 
 ## History 📜
 
