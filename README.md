@@ -1,10 +1,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **OfficialVysko**
 
-> Momentálně se učím web development a další jazyky.<br>
+> Hey! Jsem začínající front end developer.<br>
 > ┗ Můj web: [dev.officialvysko.com](https://dev.officialvysko.com)<br>
 > <br>
-> Jsem otevřený zájemcům o web, nebo jednoduchý minecraft plugin.<br>
+> Nabízím tvorbu webových stránek a jednoduchých minecraft pluginů.<br>
 > Bývalý CEO projektu Dragonex Network. (Úspěšný MC server)<br>
 
 <br>
