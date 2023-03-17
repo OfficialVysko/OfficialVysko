@@ -6,7 +6,11 @@
 > If you have any questions, or you want to arrange a commission, feel free to write me on my email or social networks.<br>
 > <br>
 > ┗ Website: [dev.officialvysko.com](https://dev.officialvysko.com)<br>
+<a href="https://discord.com/users/611182964948074526" target="_blank">
+<img src="https://img.shields.io/badge/DISCORD-323540?style=for-the-badge&logo=discord&logoColor=5294E2" alt=discord style="margin-bottom: 5px;"/>
 
+<a href="mailto:dev.officialvysko@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt=mail style="margin-bottom: 5px;" />
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -29,13 +33,3 @@
 >    ![React](https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2)
 	
 </p>
-
-<br>
-
-## 🤝 CONTACT
-
-<a href="https://discord.com/users/611182964948074526" target="_blank">
-<img src="https://img.shields.io/badge/DISCORD-323540?style=for-the-badge&logo=discord&logoColor=5294E2" alt=discord style="margin-bottom: 5px;"/>
-
-<a href="mailto:dev.officialvysko@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt=mail style="margin-bottom: 5px;" />
