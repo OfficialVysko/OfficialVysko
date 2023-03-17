@@ -23,11 +23,10 @@
 >   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 >   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-> **Tools**:
+> **Technology**:
 >
->    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
->    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
->    ![Photoshop](https://img.shields.io/badge/photoshop-%234285F4.svg?style=for-the-badge&logo=photoshop&logoColor=white)
+>    ![Node.js]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2)
+>    ![React][(https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2)
 	
 </p>
 
