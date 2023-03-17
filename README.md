@@ -13,17 +13,17 @@
 
 <p align="center">
 	
-> **Languages**:
+> **Languages**
 >	
 >    ![Python](https://img.shields.io/badge/Python-323540?style=for-the-badge&logo=python&logoColor=5294E2)
     
-> **Front end development**:
+> **Front end development**
 >
 >   ![HTML5](https://img.shields.io/badge/HTML5-323540?style=for-the-badge&logo=html5&logoColor=5294E2)
 >   ![CSS3](https://img.shields.io/badge/CSS-323540?style=for-the-badge&logo=css3&logoColor=5294E2)
 >   ![JavaScript](https://img.shields.io/badge/JavaScript-323540?style=for-the-badge&logo=javascript&logoColor=5294E2)
 
-> **Technology**:
+> **Technology**
 >
 >    ![Node.js](https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2)
 >    ![React](https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2)
@@ -35,7 +35,7 @@
 ## 🤝 CONTACT
 
 <a href="https://discord.com/users/611182964948074526" target="_blank">
-<img src="https://img.shields.io/badge/discord:  OfficialVysko-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/?style=for-the-badge&logo=discord5&logoColor=5294E2" alt=discord style="margin-bottom: 5px;"/>
 
 <a href="mailto:dev.officialvysko@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  OfficialVysko-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/?style=for-the-badge&logo=gmail5&logoColor=5294E2" t=mail style="margin-bottom: 5px;" />
