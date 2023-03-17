@@ -35,7 +35,7 @@
 ## 🤝 CONTACT
 
 <a href="https://discord.com/users/611182964948074526" target="_blank">
-<img src="https://img.shields.io/badge/DISCORD-323540?style=for-the-badge&logo=discord5&logoColor=5294E2" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/DISCORD-323540?style=for-the-badge&logo=discord&logoColor=5294E2" alt=discord style="margin-bottom: 5px;"/>
 
 <a href="mailto:dev.officialvysko@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-323540?style=for-the-badge&logo=gmail5&logoColor=5294E2" alt=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GMAIL-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt=mail style="margin-bottom: 5px;" />
