@@ -31,6 +31,7 @@
 >
 >    ![Node.js](https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2)
 >    ![React](https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2)
+>    ![React](https://img.shields.io/badge/TailwindCSS-323540?style=for-the-badge&logo=tailwindcss&logoColor=5294E2)
 	
 </p>
 
