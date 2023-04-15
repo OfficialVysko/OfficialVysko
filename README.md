@@ -33,3 +33,5 @@
 >    ![React](https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2)
 	
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialVysko&hide=prs,issues&count_private=true&show_icons=true&theme=COBALT)]()
