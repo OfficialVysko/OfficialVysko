@@ -8,6 +8,7 @@
 Make it work, make it fast, make it right!
 
 ### I currently work with
+
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -33,6 +34,5 @@ Make it work, make it fast, make it right!
 
 ---
 
-<img src="https://github-readme-stats-three-theta-62.vercel.app/api?username=OfficialVysko&theme=github_dark"><img src="https://github-readme-stats-three-theta-62.vercel.app/api/top-langs/?username=OfficialVysko&theme=github_dark">
-
+<img src="https://github-readme-stats-seven-rosy-74.vercel.app/api/top-langs/?username=OfficialVysko&theme=date_night">
 
