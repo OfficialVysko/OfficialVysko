@@ -34,5 +34,5 @@ Make it work, make it fast, make it right!
 
 ---
 
-<img src="https://github-readme-stats-seven-rosy-74.vercel.app/api/top-langs/?username=OfficialVysko&theme=date_night">
+<img src="https://github-readme-stats-seven-rosy-74.vercel.app/api/top-langs/?username=OfficialVysko&theme=date_night" alt="Try reloading the page.">
 
