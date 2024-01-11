@@ -3,7 +3,7 @@
 
 <h2>What's up!</h2>
 
-<p>I am a front-end developer from Czech Republic with a lot of experience. My goal is to create modern and responsive websites with an emphasis on user experience. I specialize in innovative design and follow the latest trends in web design and development. I happily accept new projects and am ready to bring your web visioning to life!</p>
+<p>I am an ambitious front-end web developer who creates user-friendly and aesthetically appealing websites. Over the past few years of being in the IT world, I have gained a ton of experience and built the competencies needed to bring innovative and effective solutions to every project.</p>
 
 <q>Make it work, make it fast, make it right!</q>
 
