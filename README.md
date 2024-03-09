@@ -3,9 +3,7 @@
 
 <h2>What's up!</h2>
 
-<p>I am an ambitious front-end web developer who creates user-friendly and aesthetically appealing websites. Over the past few years of being in the IT world, I have gained a ton of experience and built the competencies needed to bring innovative and effective solutions to every project.
-
-My main goal is to ensure that the customer gets a website that fully meets their needs and goals. With an emphasis on a personal approach, I always strive to understand the uniqueness of each project and its requirements.</p>
+<p>I've been interested in technology since I was a kid. I've always enjoyed coming up with new ideas and inventing new things. For the past two years I have focused on creating user-friendly and visually appealing websites. I rely on personal and honest approach to communication and try to meet the needs of the customer in all ways. I hope to bring innovative and effective solutions to every project.</p>
 
 <q>Make it work, make it fast, make it right!</q>
 
